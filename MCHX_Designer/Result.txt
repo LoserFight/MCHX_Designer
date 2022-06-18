@@ -1,7 +1,7 @@
-HeatLoad/W	57070.7
-RefrigerantPressureDrop/Pa	190874
-RefrigerantCharge/kg	0.795188
-DeltaSatT/K	-10.6698
-AverageDeltaP_air/Pa	18.0949
-AverageHTC_air/(W/m2s)	141.062
-Volume	0.00440154
+HeatLoad/W	53309.7
+RefrigerantPressureDrop/Pa	63181.3
+RefrigerantCharge/kg	1.38522
+DeltaSatT/K	-16.111
+AverageDeltaP_air/Pa	18.0725
+AverageHTC_air/(W/m2s)	141.27
+Volume	0.00349173

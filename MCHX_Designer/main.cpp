@@ -26,27 +26,6 @@ int main(int argc,char* argv[])
     //    exit(0);
 
     //}
-    //refri test("air.ppf");
-    //test.tem = 300.0;
-    //test.pressure = 101325;
-    ////test.quality = 0.1;
-    //test.tpProperty();
-    //cout << test.quality << endl;
-
-    //vector<UINT> pas = { 69,26 };
-    //refri re("r134a.fld");
-    //re.tem = 353.15;
-    //re.pressure = 1317905.491;
-    //re.tpProperty();
-    //re.qm = 0.25;
-    //air_con a_in;
-    //a_in.P = 101325;
-    //a_in.T = 303.15;
-    //a_in.v_in = 2.0;
-    //a_in.w = 0.4;
-    //for (int i = 0; i < argc; i++) {
-    //    std::cout << argv[i] << endl;
-    //}
 
     sed.air_in.P = atof(argv[1]);
     sed.air_in.T = atof(argv[2]);
