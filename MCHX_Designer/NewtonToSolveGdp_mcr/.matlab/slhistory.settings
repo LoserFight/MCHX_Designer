@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings name="slhistory" xmlns="urn:mathworks.matlab.settings" xsi:schemaLocation="urn:mathworks.matlab.settings settings.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <key name="MostRecentlyUsed">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+    <key name="MostRecentlyUsedCreation">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+    <key name="MostRecentlyUsedPinnedItems">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+    <key name="MostRecentlyUsedPinnedItemsCreation">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+    <key name="MostRecentlyUsedSimulinkProjects">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+    <key name="MostRecentlyUsedSimulinkProjectsCreation">
+        <string minArraySize="0" maxArraySize="0">
+        </string>
+    </key>
+</settings>
