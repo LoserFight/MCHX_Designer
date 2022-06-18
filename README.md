@@ -3,13 +3,19 @@
 
 ---  
 
-Air side:
-HTC & f: ParkJacobi 
+Air side:  
+
+HTC & f: ParkJacobi  
+ 
 
 ---
-Tube side:
-Liq: HTC: Gnielinski f:Blasius
-Vap: HTC: Gnielinski f:Blasius
-L&V: HTC: condShah2016   f:Friedel
+Tube side:  
+
+Liq: HTC: Gnielinski f:Blasius  
+
+Vap: HTC: Gnielinski f:Blasius  
+
+L&V: HTC: condShah2016   f:Friedel  
+
 
 ---
