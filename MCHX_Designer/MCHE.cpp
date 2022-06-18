@@ -1,7 +1,7 @@
 ﻿#include "MCHE.h"
 
-EXTERN_C bool mclInitializeApplication(const char** options, size_t count);
-//#pragma comment(lib,"NewtonToSolveGdp.lib")// 修改为你自己的工程
+//EXTERN_C bool mclInitializeApplication(const char** options, size_t count);
+////#pragma comment(lib,"NewtonToSolveGdp.lib")
 
 bool MCHE::Gnielinski(Segment& a,const double G,double &h,double &f)
 {

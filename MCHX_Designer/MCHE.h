@@ -9,10 +9,10 @@
 #include<fstream>
 #include<valarray>
 
-#include "matrix.h"
-#include "mclcppclass.h"
-#include <mclmcrrt.h>
-#include"NewtonToSolveGdp.h" // 修改为你自己的工程
+//#include "matrix.h"
+//#include "mclcppclass.h"
+//#include <mclmcrrt.h>
+//#include"NewtonToSolveGdp.h" // 修改为你自己的工程
 
 struct air_con {
 	double v_in;
@@ -112,7 +112,7 @@ public:
 	//void heatbalance(Segment* a);
 	void geometryDesign();
 	//bool check_P_design();
-	void set_volume();
+	//void set_volume();
 	//void LMTD_cal_KA(bool (MCHE::* rec)(Segment&));
 
 	bool solve(int i);

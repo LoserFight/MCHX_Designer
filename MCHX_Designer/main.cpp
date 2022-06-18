@@ -5,27 +5,27 @@
 #include"MCHE.h"
 #include"InputPara.h"
 #include<regex>
-#include "matrix.h"
-#include "mclcppclass.h"
-#include <mclmcrrt.h>
-EXTERN_C bool mclInitializeApplication(const char** options, size_t count);
+//#include "matrix.h"
+//#include "mclcppclass.h"
+//#include <mclmcrrt.h>
+//EXTERN_C bool mclInitializeApplication(const char** options, size_t count);
 InPut_data sed;
 int main(int argc,char* argv[])
 {
-    if (!mclInitializeApplication(NULL, 0))
-    {
-        cout << "Could not initialize the application.\n";
-        exit(0);
-    }
+    //if (!mclInitializeApplication(NULL, 0))
+    //{
+    //    cout << "Could not initialize the application.\n";
+    //    exit(0);
+    //}
 
-    if (!NewtonToSolveGdpInitialize())
-    {
+    //if (!NewtonToSolveGdpInitialize())
+    //{
 
-        cout << "Could not initialize NewtonToSolveGdp!" << endl;
+    //    cout << "Could not initialize NewtonToSolveGdp!" << endl;
 
-        exit(0);
+    //    exit(0);
 
-    }
+    //}
     //refri test("air.ppf");
     //test.tem = 300.0;
     //test.pressure = 101325;
@@ -113,7 +113,7 @@ int main(int argc,char* argv[])
 
     cout << "Refri Charge:  V:" << HE->reChargeV << endl;
     cout << "outlet refri deltaSatT: " << HE->DelSat << endl;
-    mclTerminateApplication();
-    NewtonToSolveGdpTerminate();
+    //mclTerminateApplication();
+    //NewtonToSolveGdpTerminate();
     return 0;
 }
